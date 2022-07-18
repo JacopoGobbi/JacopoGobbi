@@ -1,5 +1,7 @@
 ### Welcome 🤗
 
+New projects and update to existing ones coming soon...
+
 <!--
 **JacopoGobbi/JacopoGobbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
